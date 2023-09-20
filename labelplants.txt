@@ -1,3 +1,5 @@
+id	name
+2101	background
 0	Betula lenta
 1	Urtica dioica
 2	Amorpha fruticosa
@@ -6,7 +8,7 @@
 5	Metrosideros excelsa
 6	Asplenium bulbiferum
 7	Hydrocotyle bonariensis
-8	Castanea dentata or American chestnut, has traditional uses for treating throat ailments, coughs, and as a poultice for wounds. Scientific validation is needed for its medicinal applications.
+8	Castanea dentata-Castanea dentata, or American chestnut, has traditional uses for treating throat ailments, coughs, and as a poultice for wounds. Scientific validation is needed for its medicinal applications.
 9	Callicarpa americana
 10	Eichhornia crassipes
 11	Calochortus tiburonensis
@@ -14,7 +16,7 @@
 13	Fagus grandifolia
 14	Daphne laureola
 15	Erysimum franciscanum
-16	Schinus molle
+16	Schinus molle-Schinus molle, or Peruvian peppertree, has traditional medicinal uses in some cultures, including as a digestive aid and for its potential anti-inflammatory properties, but scientific evidence is limited.
 17	Larix laricina
 18	Eupatorium capillifolium
 19	Stenocereus thurberi
@@ -444,7 +446,8 @@
 443	Berberis vulgaris
 444	Berteroa incana
 445	Ambrosia artemisiifolia
-446	Bidens cernua
+446	Bidens cernua-
+Bidens cernua, commonly known as nodding bur-marigold, has traditional indigenous uses as a potential remedy for minor skin irritations and digestive issues, but further scientific research is required for validation.
 447	Rudbeckia laciniata
 448	Oxyria digyna
 449	Carya illinoinensis
@@ -503,7 +506,7 @@
 502	Carduus nutans
 503	Galearis spectabilis
 504	Oxydendrum arboreum
-505	Trillium undulatum
+505	Trillium undulatum-Trillium undulatum, or painted trillium, is used traditionally by some Native American tribes as a mild analgesic and for women's health, but its medicinal efficacy requires further scientific study.
 506	Erigeron philadelphicus
 507	Passiflora foetida
 508	Passiflora lutea
@@ -537,7 +540,7 @@
 536	Metrosideros umbellata
 537	Solanum laciniatum
 538	Centaurea stoebe
-539	Lilium michiganense
+539	Lilium michiganense-Lilium michiganense, or Michigan lily, lacks significant documented medicinal uses, but it may have been historically used by indigenous groups for unspecified traditional remedies. Further research is required.
 540	Tiarella trifoliata
 541	Asplenium polyodon
 542	Rubus parviflorus
@@ -739,7 +742,7 @@
 738	Dacrydium cupressinum
 739	Pinus resinosa
 740	Dacrycarpus dacrydioides
-741	Pinus strobus
+741	Pinus strobus-Pinus strobus, or Eastern white pine, has medicinal uses primarily as a source of vitamin C-rich needles, traditionally used for teas to treat coughs and colds, and its resin for topical applications.
 742	Passiflora tetrandra
 743	Petrorhagia dubia
 744	Cylindropuntia imbricata
@@ -775,14 +778,14 @@
 774	Fallugia paradoxa
 775	Geum canadense
 776	Polygonatum biflorum
-777	Nymphaea alba
+777	Nymphaea alba-Nymphaea alba, or white water lily, traditionally used for its mild sedative properties and potential benefits for anxiety and sleep disorders. Limited scientific evidence supports these medicinal uses.
 778	Salvia pratensis
 779	Uniola paniculata
 780	Hamelia patens
 781	Fragaria virginiana
 782	Frangula purshiana
 783	Maurandya antirrhiniflora
-784	Rhexia mariana
+784	Rhexia mariana-Rhexia mariana, or Maryland meadowbeauty, has traditional indigenous uses, potentially as an anti-inflammatory and digestive aid, though scientific validation is needed for its medicinal applications.
 785	Euphorbia nutans
 786	Euphorbia prostrata
 787	Euphorbia serpens
@@ -1355,7 +1358,7 @@
 1354	Ceiba pentandra
 1355	Carica papaya
 1356	Pseudopanax crassifolius
-1357	Sapindus saponaria
+1357	Sapindus saponaria-Sapindus saponaria, commonly known as soapberry, has traditional medicinal uses as a natural detergent and in traditional medicine for its potential anti-inflammatory and insecticidal properties
 1358	Parkinsonia aculeata
 1359	Persea americana
 1360	Veronica salicifolia
@@ -2033,7 +2036,8 @@
 2032	Mentha pulegium
 2033	Salvia azurea
 2034	Leucobryum glaucum
-2035	Pinus contorta
+2035	Pinus contorta-
+Pinus contorta, or lodgepole pine, is used traditionally by Indigenous people for medicinal purposes, such as respiratory ailments and as a source of vitamin C, though scientific validation is limited.
 2036	Lilium pardalinum
 2037	Lilium canadense
 2038	Aesculus pavia
@@ -2080,7 +2084,7 @@
 2079	Lavandula stoechas
 2080	Monarda citriodora
 2081	Hibiscus laevis
-2082	Ailanthus altissima
+2082	Ailanthus altissima-Ailanthus altissima, or Tree of Heaven, has limited medicinal uses, including potential applications in traditional Chinese medicine, such as for gastrointestinal issues and as an antifungal remedy.
 2083	Lobelia kalmii
 2084	Centranthus ruber
 2085	Silene virginica
