@@ -6,7 +6,7 @@
 5	Metrosideros excelsa
 6	Asplenium bulbiferum
 7	Hydrocotyle bonariensis
-8	Castanea dentata
+8	Castanea dentata or American chestnut, has traditional uses for treating throat ailments, coughs, and as a poultice for wounds. Scientific validation is needed for its medicinal applications.
 9	Callicarpa americana
 10	Eichhornia crassipes
 11	Calochortus tiburonensis
