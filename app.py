@@ -9,7 +9,7 @@ IMAGE_SHAPE = (224, 224)
 model = tf.keras.Sequential([hub.KerasLayer('https://tfhub.dev/google/aiy/vision/classifier/plants_V1/1', input_shape=IMAGE_SHAPE + (3,))])
 
 # Load labels
-with open(r'D:\labelplants.txt', 'r') as f:
+with open('labelplants.txt', 'r') as f:
     labels = f.read().splitlines()
 
 st.title('Image Classification with TensorFlow Hub')
