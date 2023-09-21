@@ -12,7 +12,7 @@ model = tf.keras.Sequential([hub.KerasLayer('https://tfhub.dev/google/aiy/vision
 with open('labelplants.txt', 'r') as f:
     labels = f.read().splitlines()
 
-st.title('Image Classification with TensorFlow Hub')
+st.title('HERBVISTA')
 
 uploaded_image = st.file_uploader("Choose an image...", type=["jpg", "png", "jpeg"])
 
