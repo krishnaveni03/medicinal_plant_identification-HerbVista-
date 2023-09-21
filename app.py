@@ -9,18 +9,18 @@ IMAGE_SHAPE = (224, 224)
 model = tf.keras.Sequential([hub.KerasLayer('https://tfhub.dev/google/aiy/vision/classifier/plants_V1/1', input_shape=IMAGE_SHAPE + (3,))])
 
 # Load labels
-with open('labelplants.txt', 'r') as f:
+with open('labelplants .txt', 'r') as f:
     labels = f.read().splitlines()
 
-st.title('HERBVISTA')
+st.title('HERBVISTA (Identify your Herbs!)')
 
-uploaded_image = st.file_uploader("Choose an image...", type=["jpg", "png", "jpeg"])
+uploaded_image = st.file_uploader("Choose a Herb ...", type=["jpg", "png", "jpeg"])
 
 if uploaded_image is not None:
     image = Image.open(uploaded_image)
     st.image(image, caption="Uploaded Image", use_column_width=True)
     st.write("")
-    st.write("Classifying...")
+    st.write("Here your Herb ..")
 
     # Preprocess the image
     image = image.resize(IMAGE_SHAPE)
@@ -33,7 +33,7 @@ if uploaded_image is not None:
     if len(labels) > 0:
         predicted_index = np.argmax(result)
         if predicted_index < len(labels) and predicted_index >= 0:
-            predicted_label = labels[predicted_index]
+            predicted_label = labels[predicted_index+3]
             st.write(f"Prediction: {predicted_label}")
             
         else:
